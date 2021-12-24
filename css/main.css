@@ -5,17 +5,22 @@
 .card label{
    color: wheat;
    font-size: 2rem;
+   font-family: 'Mountains of Christmas', cursive;
    font-family: 'Sonsie One', cursive;
 }
 .card{
     margin: 2rem;
 }
+
 .card h5{
-    font-size: 3rem;
+    font-size: 2rem;
+    color: red;
+    font-family: 'Mountains of Christmas', cursive;
+    font-family: 'Sonsie One', cursive;
 }
 .card p{
     font-family: 'Sonsie One', cursive;
-    font-size: 2rem;
+    font-size: 1rem;
 }
 .background-img{
    background-image: url("https://images.unsplash.com/photo-1575401744434-8e752e238768?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80");
