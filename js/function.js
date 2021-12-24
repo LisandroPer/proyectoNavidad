@@ -13,11 +13,12 @@ function infoHandler(){
                                     <div class="card-body">
                                       <h5 class="card-title">${name}, Papá Noel recibirá tu carta pronto</h5>
                                       <p class="card-text">La carta dice: ${cardInfo}</p>
+                                      <p class="card-text">En breve él llegará con tus regalos</p>
                                     </div>
                                 </div>`);
             document.body.appendChild(christmasCard);
 
-    alert("Carta enviada... Compruebe su contenido al final de la página.");
+    alert(name+ "," +  " la carta ha sido enviada... Compruebe su contenido al final de la página.");
 }
 
 function bntSend(){
