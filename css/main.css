@@ -26,6 +26,11 @@
     width: 90rem;
 }
 
+.card-img-top-1{
+    height: 20rem;
+    width: 10rem;
+}
+
 .carousel-inner h5{
     font-size: 5rem;
 }
