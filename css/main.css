@@ -34,6 +34,7 @@
 .card-img-top-1{
     height: 20rem;
     width: 10rem;
+    border-radius: 100%;
 }
 
 .carousel-inner h5{
